@@ -1,0 +1,52 @@
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-3 text-center">Link 1 aaa</div>
+                <div class="col-xs-3 text-center">Link 2 bbb</div>
+                <div class="col-xs-3 text-center">Link 3 ccc</div>
+                <div class="col-xs-3 text-center">Link 4 ddd</div>
+            </div>
+            <div class="row">
+                <div class="col-xs-3 text-center">Link 5 eee</div>
+                <div class="col-xs-3 text-center">Link 6 fff</div>
+                <div class="col-xs-3 text-center">Link 7 ggg</div>
+                <div class="col-xs-3 text-center">Link 8 hhh</div>
+            </div>
+            <div class="row">
+                <div class="col-xs-3 text-center">Link 9 iii</div>
+                <div class="col-xs-3 text-center">Link 10 jjj</div>
+                <div class="col-xs-3 text-center">Link 11 kkk</div>
+                <div class="col-xs-3 text-center">Link 12 lll</div>
+            </div>
+            <div class="row">
+                <div class="col-xs-3 text-center">Link 13 mmm</div>
+                <div class="col-xs-3 text-center">Link 14 nnn</div>
+                <div class="col-xs-3 text-center">Link 15 oooo</div>
+                <div class="col-xs-3 text-center">Link 16 ppp</div>
+            </div>
+            <div class="container">
+                <div class="row text-center footer-bottom">
+                    <p>@Copyright Flavio Prumucena 2017</p>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+
+
+
+
+                <div class="container">
+                    <div class="row">
+                        <ul>
+                        <ul class="footer-social col-md-3 col-sm-6"><i class="fa fa-linkedin social-icon linked-in" aria-hidden="true"></i></ul>
+                        <ul class="col-md-3 col-sm-6"><i class="fa fa-facebook social-icon facebook" aria-hidden="true"></i></ul>
+                        <ul class="col-md-3 col-sm-6"><i class="fa fa-twitter social-icon twitter" aria-hidden="true"></i></ul>
+                        <ul class="col-md-3 col-sm-6"><i class="fa fa-google-plus social-icon google" aria-hidden="true"></i></ul>
+                        </ul>
+                    </div>
+                </div>
+
+

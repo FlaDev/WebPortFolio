@@ -1,0 +1,37 @@
+.nature-style
+{
+    color: rgba(145,145,145,0.64);
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: x-large;
+    text-align: center;
+}
+.nature-box-style
+{
+    text-align: justify;
+    font-size: large;
+}
+.nature-box-style a
+{
+    text-decoration-line: none;
+    text-align: center;
+    color: black;
+    font-size: large;
+    font-weight: normal;
+}
+.nature-banner
+{
+    background-color:  rgb(34, 145, 28);
+    color: white;
+    text-align: center;
+}
+.nature-bgimg {
+    background-color: rgb(34, 145, 28);
+    opacity: 0.5;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}

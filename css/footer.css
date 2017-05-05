@@ -1,0 +1,27 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+{
+
+    margin: 0px;
+}
+.no-padding
+{
+    padding: 0px;
+}
+
+
+.footer-bottom{
+    margin-top: 50px;
+    padding: 0 80px;
+}
+
+.nav-margin
+{
+    margin-top: 35px;
+}
+/*don't use text decoration on social icons, use my color, put some space between the icons */
+.navbar-text > a
+{
+    color: inherit;
+    text-decoration: none;
+    padding: 0 10px;
+}
